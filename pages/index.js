@@ -5,6 +5,8 @@
    <meta property=...>SNSシェア時にサイト/ページ情報を表示するOGPタグ>
    <link href=...>CSSやCDNの読み込み
 */
+
+/*　変更テスト10060113 */
 import Head from 'next/head'; 
 import Link from 'next/link';
 
